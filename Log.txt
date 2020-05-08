@@ -1,0 +1,88 @@
+2020-05-06T16:32:49.589322: M10001 için başarılı kullanıcı girişi.
+2020-05-06T16:32:52.225761700: M10001 cihazından gelen anlık sıcaklık 13.0C
+2020-05-06T16:32:54.216730: M10001 cihazından gelen anlık sıcaklık 12.0C
+2020-05-06T16:32:56.215847200: M10001 cihazından gelen anlık sıcaklık 12.0C
+2020-05-06T16:32:58.217390500: M10001 cihazından gelen anlık sıcaklık 13.0C
+2020-05-06T16:33:00.217378900: M10001 cihazından gelen anlık sıcaklık 13.0C
+2020-05-06T16:33:02.217228900: M10001 cihazından gelen anlık sıcaklık 14.0C
+2020-05-06T16:33:04.216836500: M10001 cihazından gelen anlık sıcaklık 15.0C
+2020-05-06T16:33:06.216369300: M10001 cihazından gelen anlık sıcaklık 15.0C
+2020-05-06T16:33:08.217397300: M10001 cihazından gelen anlık sıcaklık 16.0C
+2020-05-06T16:33:10.216435200: M10001 cihazından gelen anlık sıcaklık 15.0C
+2020-05-06T16:33:12.217370300: M10001 cihazından gelen anlık sıcaklık 14.0C
+2020-05-06T16:33:14.216863300: M10001 cihazından gelen anlık sıcaklık 15.0C
+2020-05-06T16:33:16.216525100: M10001 cihazından gelen anlık sıcaklık 16.0C
+2020-05-06T16:33:18.216871300: M10001 cihazından gelen anlık sıcaklık 15.0C
+2020-05-06T16:33:20.217844: M10001 cihazından gelen anlık sıcaklık 14.0C
+2020-05-06T16:33:22.217371: M10001 cihazından gelen anlık sıcaklık 14.0C
+2020-05-06T16:33:24.216885300: M10001 cihazından gelen anlık sıcaklık 15.0C
+2020-05-06T16:33:26.216868500: M10001 cihazından gelen anlık sıcaklık 15.0C
+2020-05-06T16:33:28.216367900: M10001 cihazından gelen anlık sıcaklık 16.0C
+2020-05-06T16:33:30.216774900: M10001 cihazından gelen anlık sıcaklık 17.0C
+2020-05-06T16:33:32.215853500: M10001 cihazından gelen anlık sıcaklık 17.0C
+2020-05-06T16:33:34.216258500: M10001 cihazından gelen anlık sıcaklık 17.0C
+2020-05-06T16:33:36.216378600: M10001 cihazından gelen anlık sıcaklık 16.0C
+2020-05-06T16:33:38.216742600: M10001 cihazından gelen anlık sıcaklık 16.0C
+2020-05-06T16:33:40.215773200: M10001 cihazından gelen anlık sıcaklık 16.0C
+2020-05-06T16:33:42.215895200: M10001 cihazından gelen anlık sıcaklık 17.0C
+2020-05-06T16:33:44.216870800: M10001 cihazından gelen anlık sıcaklık 16.0C
+2020-05-06T16:59:08.759781500: M10001 için başarılı kullanıcı girişi.
+2020-05-06T17:22:09.171330800: M10001 için başarılı kullanıcı girişi.
+2020-05-06T17:23:43.802367600: M10001 için başarılı kullanıcı girişi.
+2020-05-06T17:24:23.298366900: M10001 için başarılı kullanıcı girişi.
+2020-05-08T19:55:27.036941900: M10001 için başarılı kullanıcı girişi.
+2020-05-08T19:58:45.213555400: başarısız kullanıcı girişi.
+2020-05-08T20:02:30.664050200: M10001 için başarılı kullanıcı girişi.
+2020-05-08T20:02:45.340542200: M10001 için başarılı kullanıcı girişi.
+2020-05-08T20:02:57.306036400: M10001 için başarılı kullanıcı girişi.
+2020-05-08T20:08:07.806535600: M10001 için başarılı kullanıcı girişi.
+2020-05-08T20:08:14.071940500: M10001 cihazından gelen anlık sıcaklık 36.0C
+2020-05-08T20:08:16.064450400: M10001 cihazından gelen anlık sıcaklık 35.0C
+2020-05-08T20:09:25.264039500: M10001 için başarılı kullanıcı girişi.
+2020-05-08T20:09:41.460738500: M10001 için başarılı kullanıcı girişi.
+2020-05-08T20:09:44.255085800: M10001 cihazından gelen anlık sıcaklık -10.0C
+2020-05-08T20:09:46.249810900: M10001 cihazından gelen anlık sıcaklık -9.0C
+2020-05-08T20:10:00.616065300: M10001 için başarılı kullanıcı girişi.
+2020-05-08T20:14:13.712070900: M10001 için başarılı kullanıcı girişi.
+2020-05-08T20:15:45.472043400: M10001 için başarılı kullanıcı girişi.
+2020-05-08T20:16:26.496996200: M10001 için başarılı kullanıcı girişi.
+2020-05-08T20:19:44.474531900: M10001 için başarılı kullanıcı girişi.
+2020-05-08T20:20:04.426060300: başarısız kullanıcı girişi.
+2020-05-08T20:22:09.516050800: M10001 için başarılı kullanıcı girişi.
+2020-05-08T20:22:18.688061400: M10001 cihazından gelen anlık sıcaklık 35.0C
+2020-05-08T20:22:20.682970500: M10001 cihazından gelen anlık sıcaklık 35.0C
+2020-05-08T20:22:22.683538900: M10001 cihazından gelen anlık sıcaklık 36.0C
+2020-05-08T20:22:24.683032300: M10001 cihazından gelen anlık sıcaklık 35.0C
+2020-05-08T20:22:26.707037300: M10001 cihazından gelen anlık sıcaklık 36.0C
+2020-05-08T20:22:28.682897400: M10001 cihazından gelen anlık sıcaklık 36.0C
+2020-05-08T20:22:30.683001: M10001 cihazından gelen anlık sıcaklık 37.0C
+2020-05-08T20:22:32.682572100: M10001 cihazından gelen anlık sıcaklık 38.0C
+2020-05-08T20:22:34.682540300: M10001 cihazından gelen anlık sıcaklık 39.0C
+2020-05-08T20:22:36.682041300: M10001 cihazından gelen anlık sıcaklık 38.0C
+2020-05-08T20:22:38.681834400: M10001 cihazından gelen anlık sıcaklık 38.0C
+2020-05-08T21:32:03.625464: başarısız kullanıcı girişi.
+2020-05-08T21:32:28.217025600: M10001 için başarılı kullanıcı girişi.
+2020-05-08T21:48:29.741011200: M10001 için başarılı kullanıcı girişi.
+2020-05-08T22:01:12.001535600: başarısız kullanıcı girişi.
+2020-05-08T22:01:18.156536500: başarısız kullanıcı girişi.
+2020-05-08T22:01:19.310607100: başarısız kullanıcı girişi.
+2020-05-08T22:01:31.758042500: M10001 için başarılı kullanıcı girişi.
+2020-05-08T22:02:09.158036200: M10001 cihazından gelen anlık sıcaklık 2.0C
+2020-05-08T22:02:11.149963100: M10001 cihazından gelen anlık sıcaklık 1.0C
+2020-05-08T22:02:13.149459400: M10001 cihazından gelen anlık sıcaklık 2.0C
+2020-05-08T22:02:15.149492700: M10001 cihazından gelen anlık sıcaklık 2.0C
+2020-05-08T22:02:17.150024100: M10001 cihazından gelen anlık sıcaklık 2.0C
+2020-05-08T22:02:19.150030900: M10001 cihazından gelen anlık sıcaklık 1.0C
+2020-05-08T22:12:13.361510900: başarısız kullanıcı girişi.
+2020-05-08T22:12:18.921336500: başarısız kullanıcı girişi.
+2020-05-08T22:12:19.381473900: başarısız kullanıcı girişi.
+2020-05-08T22:12:19.984989200: başarısız kullanıcı girişi.
+2020-05-08T22:12:21.611807300: başarısız kullanıcı girişi.
+2020-05-08T22:12:29.296534800: M10001 için başarılı kullanıcı girişi.
+2020-05-08T22:12:49.985957700: M10001 cihazından gelen anlık sıcaklık 5.0C
+2020-05-08T22:12:51.976536400: M10001 cihazından gelen anlık sıcaklık 4.0C
+2020-05-08T22:12:53.976932200: M10001 cihazından gelen anlık sıcaklık 4.0C
+2020-05-08T22:12:55.976522900: M10001 cihazından gelen anlık sıcaklık 3.0C
+2020-05-08T22:12:57.975721: M10001 cihazından gelen anlık sıcaklık 3.0C
+2020-05-08T22:12:59.977038: M10001 cihazından gelen anlık sıcaklık 2.0C
+2020-05-08T22:13:01.976033100: M10001 cihazından gelen anlık sıcaklık 1.0C
