@@ -1,4 +1,4 @@
-# NYAT_Projesi
+# Nesne Yönelimli Analiz ve Tasarım Dersi Projesi
 Nesne Yönelimli Analiz ve Tasarım dersi projesinin kaynak kodları.
 
 Java dosyası java kodlarının bulunduğu dosyadır.
